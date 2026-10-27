@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://svt87.github.io/Galaturd/sitemap.xml
